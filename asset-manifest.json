@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/4-semester-1-work/static/css/main.d958982a.css",
-    "main.js": "/4-semester-1-work/static/js/main.07863544.js",
+    "main.js": "/4-semester-1-work/static/js/main.02595621.js",
     "index.html": "/4-semester-1-work/index.html",
     "main.d958982a.css.map": "/4-semester-1-work/static/css/main.d958982a.css.map",
-    "main.07863544.js.map": "/4-semester-1-work/static/js/main.07863544.js.map"
+    "main.02595621.js.map": "/4-semester-1-work/static/js/main.02595621.js.map"
   },
   "entrypoints": [
     "static/css/main.d958982a.css",
-    "static/js/main.07863544.js"
+    "static/js/main.02595621.js"
   ]
 }
